@@ -2,7 +2,7 @@
 
 Hosted Link: [https://mira-ai-agent.web.app](https://mira-ai-agent.web.app)
 
-**MIRA** is a powerful AI-driven recipe generation assistant that intelligently selects between different LLMs (Groq & Gemini) to produce structured recipes. Designed with LangChain agents, Flask backend, and a Vite + Tailwind CSS frontend, MIRA is a full-stack showcase of modern agentic AI workflows.
+**MIRA** is a powerful AI-driven task planning assistant that intelligently selects between different LLMs  to produce structured instructions. 
 
 ---
 
