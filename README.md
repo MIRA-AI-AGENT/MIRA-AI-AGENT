@@ -1,4 +1,4 @@
-# 🍳 MIRA: An Intelligent Recipe Agent
+# 🍳 MIRA: An Intelligent Task Planning Agent
 
 Hosted Link: [https://mira-ai-agent.web.app](https://mira-ai-agent.web.app)
 
