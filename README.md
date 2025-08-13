@@ -17,7 +17,7 @@ Hosted Link: [https://mira-ai-agent.web.app](https://mira-ai-agent.web.app)
 
 ```bash
 git clone https://github.com/mohanrajvijayan2410/MIRA_AGENT.git
-cd mira_agent
+cd MIRA_AGENT
 ```
 
 ### 2. Complete Setup 
